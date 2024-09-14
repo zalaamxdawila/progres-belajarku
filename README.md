@@ -3,7 +3,8 @@
 10 September 2024
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 * Belajar tentang apa itu Java dan alasan menggunakannya.
-* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.<br>
+* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+<br>
 
 11 September 2021
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
